@@ -5,7 +5,7 @@ android {
     buildToolsVersion '25.0.0'
 
     defaultConfig {
-        applicationId "io.jpotts18.android_mvp"
+        applicationId "com.amar.android_mvp"
         minSdkVersion 16
         targetSdkVersion 22
         versionCode 1
